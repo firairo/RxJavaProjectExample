@@ -17,6 +17,6 @@ fun FavoriteScreen() {
             .background(Color.Blue),
         contentAlignment = Alignment.Center
     ) {
-        Text("Settings", color = Color.White)
+        Text("Favorite", color = Color.White)
     }
 }

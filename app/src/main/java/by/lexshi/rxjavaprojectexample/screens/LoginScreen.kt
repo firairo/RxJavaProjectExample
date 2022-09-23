@@ -13,8 +13,6 @@ import androidx.compose.ui.tooling.preview.Preview
 
 @Composable
 fun LoginScreen(openImagesScreen: () -> Unit) {
-
-
     Box(
         modifier = Modifier
             .fillMaxSize()
